@@ -25,9 +25,9 @@
     </item>
     <item>
       <title>Description</title>
-      <link>/docs/example/description/</link>
+      <link>/docs/description/description/</link>
       <pubDate>Wed, 17 Dec 2025 00:34:00 +0800</pubDate>
-      <guid>/docs/example/description/</guid>
+      <guid>/docs/description/description/</guid>
       <description>&lt;p&gt;用于解释说明该文档&lt;/p&gt;&#xA;&lt;h2 id=&#34;这是什么&#34;&gt;这是什么？&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;这是用于跳转至文档界面的跳板&lt;/li&gt;&#xA;&lt;li&gt;可以在左侧看到文档的目录&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
