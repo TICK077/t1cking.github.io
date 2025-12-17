@@ -254,24 +254,94 @@
       
         
 <section class="section container-fluid mt-n3 pb-3">
-  <div class="row justify-content-center">
-    <div class="col-lg-12 text-center">
-      <img src="/images/avatar.png"
-        class="rounded-circle mx-auto d-block mb-3"
-        style="width:180px;height:180px;object-fit:cover;"
-        alt="avatar">
-    </div>
-    <p></p>
-    <div class="col-lg-12 text-center">
-        <h1>TICK077</h1>
-    </div>
-    <div class="col-lg-9 col-xl-8 text-center">
-      <p class="lead">Unknown person</p>
-      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3"href="javascript:void(0);"onclick="alert('I told you!')"role="button">Useless Button</a>
-      
-    </div>
+
   </div>
+    <div style="width:100%;">
+      <div style="
+        display:flex;
+        max-width:1100px;
+        margin:0 auto;
+        gap:2rem;
+      ">
+        <div style="
+          flex:1;
+          display:flex;
+          flex-direction:column;
+          align-items:center;
+          text-align:center;
+        ">
+
+      <div class="row justify-content-center">
+        <div class="col-lg-12 text-center">
+          <img src="/images/avatar.png"
+            class="rounded-circle mx-auto d-block mb-3"
+            style="width:180px;height:180px;object-fit:cover;"
+            alt="avatar">
+        </div>
+        <p></p>
+        <div class="col-lg-12 text-center">
+            <h1>TICK077</h1>
+        </div>
+        <div class="col-lg-9 col-xl-8 text-center">
+          <p class="lead">Unknown person</p>
+          <style>
+            .spoiler {
+              background-color: #000000;
+              color: #000000;         
+              border-radius: 4px;
+              padding: 2px 6px;
+              cursor: pointer;
+              transition: color 0.3s;
+            }
+
+            .spoiler:hover {
+              color: #fff;         
+            }
+          </style>
+
+            <span class="spoiler">A typo now.</span><br>
+            <span class="spoiler">Top result tomorrow.</span>
+            <p></p>
+          <a id="funButton" class="btn btn-primary btn-cta rounded-pill btn-lg my-3"
+              href="javascript:void(0);"
+              onclick="const btn=document.getElementById('funButton'); btn.innerText=['Click me again!','Haha!','Try harder!','😎'][Math.floor(Math.random()*4)];"
+              role="button">Useless Button</a>
+          
+        </div>
+      </div>
+    </div>
+
+
+
+  <div style="
+      flex:1;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      text-align:center;
+      justify-content: center;
+    ">
+      <div class="col-lg-12 text-center">
+              <h2>你好哇~</h2>
+              <p></p>
+              <h>如你所见，这里是我的技术性博客</h>
+              <p></p>
+              <h>这里主要分享个人学习笔记~</h>
+              <p></p>
+              <h>该网站使用 Hugo & Doks 构建</h>
+              <p></p>
+              <h>并托管于GitHub Pages</h>
+              <p></p>
+              <h>我的生活博客: <a href="https://t1ck.me" target="_blank">t1ck.me</a>~</h>
+      </div> 
+    </div>   
+  </div>
+</div>
+
+
 </section>
+
+
 
       
       </div>
