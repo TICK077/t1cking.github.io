@@ -31,10 +31,10 @@
       <description>&lt;p&gt;学习如何使用 Markdown 在 Doks 中创作内容，使用 frontmatter 自定义页面，添加图像、标题、代码块等等。&lt;/p&gt;&#xA;&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;&#xA;&lt;p&gt;Doks 支持完整的 &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; &lt;code&gt;.md&lt;/code&gt; 语法，以及使用 &lt;a href=&#34;https://yaml.org/spec/1.2.2/&#34;&gt;YAML&lt;/a&gt;, &lt;a href=&#34;https://toml.io/en/&#34;&gt;TOML&lt;/a&gt;, 或 &lt;a href=&#34;https://www.json.org/json-en.html&#34;&gt;JSON&lt;/a&gt; 等 frontmatter来定义标题和描述等元数据。&lt;/p&gt;&#xA;&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;p&gt;您可以通过在 Doks 的 frontmatter 中设置值来自定义各个页面。frontmatter 设置在文件顶部 &lt;code&gt;---&lt;/code&gt; 分隔符之间：&lt;/p&gt;</description>
     </item>
     <item>
-      <title>test</title>
-      <link>/blog/test/</link>
+      <title>test123</title>
+      <link>/blog/test123/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>/blog/test/</guid>
+      <guid>/blog/test123/</guid>
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
