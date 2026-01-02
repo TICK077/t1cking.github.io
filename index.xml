@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Wed, 17 Dec 2025 07:52:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 23:57:00 +0800</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Description - 解释</title>
@@ -17,25 +17,32 @@
       <description>&lt;div style=&#34;width:100%;&#34;&gt;&#xA;  &lt;div style=&#34;&#xA;    display:flex;&#xA;    max-width:1100px;&#xA;    margin:0 auto;&#xA;    gap:2rem;&#xA;  &#34;&gt;&#xA;    &lt;div style=&#34;&#xA;      flex:1;&#xA;      display:flex;&#xA;      flex-direction:column;&#xA;    &#34;&gt;&#xA;&lt;h2 id=&#34;whats-this&#34;&gt;What&amp;rsquo;s this?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is a jump pad used to navigate to the document interface.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;On the computer&lt;/strong&gt;, you can see the document&amp;rsquo;s table of contents on the &lt;strong&gt;left side&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;On mobile&lt;/strong&gt;, you can click the &lt;strong&gt;button&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon icon-tabler icon-tabler-dots-vertical&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;&gt;&lt;/path&gt;&#xA;&lt;path d=&#34;M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0&#34;&gt;&lt;/path&gt;&#xA;&lt;path d=&#34;M12 19m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0&#34;&gt;&lt;/path&gt;&#xA;&lt;path d=&#34;M12 5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt; in the upper right corner&lt;/strong&gt; to see the document&amp;rsquo;s table of contents.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The documents on this site are written in both Chinese and English;&#xA;for ease of reading, subsequent documents will be placed separately.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>简要</title>
-      <link>/docs/for-myself/%E7%AE%80%E8%A6%81/</link>
+      <title>gitAuto - README</title>
+      <link>/docs/gitauto/gitauto-readme/</link>
+      <pubDate>Fri, 02 Jan 2026 23:57:00 +0800</pubDate>
+      <guid>/docs/gitauto/gitauto-readme/</guid>
+      <description>&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/TICK077/gitAuto&#34;&gt;gitAuto&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;#-%e7%89%b9%e6%80%a7&#34;&gt;中文版本README&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;gitauto&#34;&gt;gitAuto&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;gitAuto&lt;/code&gt; is a &lt;strong&gt;Lightweight Git Auto-Commit / Push Tool (Windows only)&lt;/strong&gt;&lt;br&gt;&#xA;designed to automatically execute the &lt;strong&gt;Pull → Wait → Countdown → Commit → Push&lt;/strong&gt; workflow when local files change.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>For myself - 简要</title>
+      <link>/docs/for-myself/for-myself-%E7%AE%80%E8%A6%81/</link>
       <pubDate>Wed, 17 Dec 2025 06:34:00 +0800</pubDate>
-      <guid>/docs/for-myself/%E7%AE%80%E8%A6%81/</guid>
+      <guid>/docs/for-myself/for-myself-%E7%AE%80%E8%A6%81/</guid>
       <description>&lt;h2 id=&#34;这是什么--what-is-this&#34;&gt;这是什么？ / What is this?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;For myself部分&lt;/strong&gt;是留给作者自己看的，主要是doks的使用文档的个人汉化版本，原文档请参阅&lt;a href=&#34;https://getdoks.org/docs/&#34;&gt;Docs&lt;/a&gt;。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The &amp;ldquo;For myself&amp;rdquo; section&lt;/strong&gt; is for the author&amp;rsquo;s own reference; it&amp;rsquo;s primarily a personal Chinese translation of the doks usage documentation. For the original documentation, please refer to &lt;a href=&#34;https://getdoks.org/docs/&#34;&gt;Docs&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>关于写作</title>
-      <link>/docs/for-myself/%E5%85%B3%E4%BA%8E%E5%86%99%E4%BD%9C/</link>
+      <title>For myself - 关于写作</title>
+      <link>/docs/for-myself/for-myself-%E5%85%B3%E4%BA%8E%E5%86%99%E4%BD%9C/</link>
       <pubDate>Wed, 17 Dec 2025 07:52:00 +0800</pubDate>
-      <guid>/docs/for-myself/%E5%85%B3%E4%BA%8E%E5%86%99%E4%BD%9C/</guid>
+      <guid>/docs/for-myself/for-myself-%E5%85%B3%E4%BA%8E%E5%86%99%E4%BD%9C/</guid>
       <description>&lt;p&gt;学习如何使用 Markdown 在 Doks 中创作内容，使用 frontmatter 自定义页面，添加图像、标题、代码块等等。&lt;/p&gt;&#xA;&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;&#xA;&lt;p&gt;Doks 支持完整的 &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; &lt;code&gt;.md&lt;/code&gt; 语法，以及使用 &lt;a href=&#34;https://yaml.org/spec/1.2.2/&#34;&gt;YAML&lt;/a&gt;, &lt;a href=&#34;https://toml.io/en/&#34;&gt;TOML&lt;/a&gt;, 或 &lt;a href=&#34;https://www.json.org/json-en.html&#34;&gt;JSON&lt;/a&gt; 等 frontmatter来定义标题和描述等元数据。&lt;/p&gt;&#xA;&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;p&gt;您可以通过在 Doks 的 frontmatter 中设置值来自定义各个页面。frontmatter 设置在文件顶部 &lt;code&gt;---&lt;/code&gt; 分隔符之间：&lt;/p&gt;</description>
     </item>
     <item>
-      <title>test123</title>
-      <link>/blog/test123/</link>
-      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>/blog/test123/</guid>
-      <description>You can use blog posts for announcing product updates and features.</description>
+      <title>AboutMe - 关于我</title>
+      <link>/blog/aboutme-%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+      <pubDate>Fri, 02 Jan 2026 23:57:00 +0800</pubDate>
+      <guid>/blog/aboutme-%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+      <description>&lt;p&gt;欢迎你打开这个文档~  也谢谢你尝试认识我！&lt;/p&gt;&#xA;&lt;h2 id=&#34;我是谁-whoami&#34;&gt;我是谁？/ Whoami?&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;　　你可以叫我&lt;code&gt;TICK&lt;/code&gt;/&lt;code&gt;Eko&lt;/code&gt;，或者也可以直接叫我的本名，&lt;code&gt;若奇&lt;/code&gt;。截至文章发布，我是一名就读于GUFL的大三学生，专业是&lt;code&gt;网络工程&lt;/code&gt;，方向为&lt;code&gt;网络安全&lt;/code&gt;，即将备考&lt;code&gt;中国科学院信息工程研究所&lt;/code&gt;，&lt;code&gt;第九研究室 网络威胁分析研究室&lt;/code&gt;。&lt;/p&gt;&#xA;&lt;p&gt;　　对于我还是很具有挑战的吧，加上精神疾病对于我的折磨，所以诞生了该技术博客与伴生的生活博客，用于记录我的学习及生活轨迹。如果你想找我聊天，可以在&lt;a href=&#34;https://t1ck.ing/contact/&#34;&gt;Contact me&lt;/a&gt;中找到我的联系方式，看到都会回复的喔。&lt;/p&gt;&#xA;&lt;p&gt;　　我会尝试去做很多我认为有意思的东西，它们普遍都发布在我的&lt;a href=&#34;https://github.com/TICK077&#34;&gt;GitHub&lt;/a&gt;上喔。&lt;/p&gt;&#xA;&lt;p&gt;　　该网站为&lt;code&gt;技术博客&lt;/code&gt;，所以我就不讲负面的话了，如果你想了解我更多，可以去我的&lt;a href=&#34;https://t1ck.me&#34;&gt;生活博客&lt;/a&gt;喔~&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;zh-CN&#34;&gt;&#xA;&lt;head&gt;&#xA;&lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;&lt;title&gt;Easter Egg&lt;/title&gt;&#xA;&lt;style&gt;&#xA;  .egg-btn {&#xA;    padding: 10px 24px;&#xA;    border-radius: 999px;&#xA;    border: none;&#xA;    background: #2f2f2f;&#xA;    color: #fff;&#xA;    cursor: pointer;&#xA;    font-size: 14px;&#xA;    transition: all 0.25s ease;&#xA;  }&#xA;&#xA;  .egg-btn:hover {&#xA;    background: #444;&#xA;  }&#xA;&#xA;  .egg-btn.clicked {&#xA;    background: #1e1e1e;&#xA;    color: #777;&#xA;    cursor: default;&#xA;  }&#xA;&#xA;  .egg-content {&#xA;    margin-top: 12px;&#xA;    display: none;&#xA;    font-size: 14px;&#xA;    line-height: 1.7;&#xA;    color: #bbb;&#xA;  }&#xA;&#xA;    .spoiler {&#xA;      background: #000;&#xA;      color: #000;&#xA;      border-radius: 4px;&#xA;      padding: 2px 6px;&#xA;      cursor: pointer;&#xA;      transition: color 0.3s;&#xA;    }&#xA;&#xA;    .spoiler:hover {&#xA;      color: #fff;&#xA;    }&#xA;&#xA;  /* 只有按住时才显示 */&#xA;  .spoiler:active {&#xA;    color: #aaa;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&lt;p&gt;&lt;button class=&#34;egg-btn&#34; id=&#34;eggBtn&#34;&gt;这是什么？&lt;/button&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Me / 联系我</title>

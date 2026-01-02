@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 23:57:00 +0800</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test123</title>
-      <link>/blog/test123/</link>
-      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>/blog/test123/</guid>
-      <description>You can use blog posts for announcing product updates and features.</description>
+      <title>AboutMe - 关于我</title>
+      <link>/blog/aboutme-%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+      <pubDate>Fri, 02 Jan 2026 23:57:00 +0800</pubDate>
+      <guid>/blog/aboutme-%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+      <description>&lt;p&gt;欢迎你打开这个文档~  也谢谢你尝试认识我！&lt;/p&gt;&#xA;&lt;h2 id=&#34;我是谁-whoami&#34;&gt;我是谁？/ Whoami?&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;　　你可以叫我&lt;code&gt;TICK&lt;/code&gt;/&lt;code&gt;Eko&lt;/code&gt;，或者也可以直接叫我的本名，&lt;code&gt;若奇&lt;/code&gt;。截至文章发布，我是一名就读于GUFL的大三学生，专业是&lt;code&gt;网络工程&lt;/code&gt;，方向为&lt;code&gt;网络安全&lt;/code&gt;，即将备考&lt;code&gt;中国科学院信息工程研究所&lt;/code&gt;，&lt;code&gt;第九研究室 网络威胁分析研究室&lt;/code&gt;。&lt;/p&gt;&#xA;&lt;p&gt;　　对于我还是很具有挑战的吧，加上精神疾病对于我的折磨，所以诞生了该技术博客与伴生的生活博客，用于记录我的学习及生活轨迹。如果你想找我聊天，可以在&lt;a href=&#34;https://t1ck.ing/contact/&#34;&gt;Contact me&lt;/a&gt;中找到我的联系方式，看到都会回复的喔。&lt;/p&gt;&#xA;&lt;p&gt;　　我会尝试去做很多我认为有意思的东西，它们普遍都发布在我的&lt;a href=&#34;https://github.com/TICK077&#34;&gt;GitHub&lt;/a&gt;上喔。&lt;/p&gt;&#xA;&lt;p&gt;　　该网站为&lt;code&gt;技术博客&lt;/code&gt;，所以我就不讲负面的话了，如果你想了解我更多，可以去我的&lt;a href=&#34;https://t1ck.me&#34;&gt;生活博客&lt;/a&gt;喔~&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;zh-CN&#34;&gt;&#xA;&lt;head&gt;&#xA;&lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;&lt;title&gt;Easter Egg&lt;/title&gt;&#xA;&lt;style&gt;&#xA;  .egg-btn {&#xA;    padding: 10px 24px;&#xA;    border-radius: 999px;&#xA;    border: none;&#xA;    background: #2f2f2f;&#xA;    color: #fff;&#xA;    cursor: pointer;&#xA;    font-size: 14px;&#xA;    transition: all 0.25s ease;&#xA;  }&#xA;&#xA;  .egg-btn:hover {&#xA;    background: #444;&#xA;  }&#xA;&#xA;  .egg-btn.clicked {&#xA;    background: #1e1e1e;&#xA;    color: #777;&#xA;    cursor: default;&#xA;  }&#xA;&#xA;  .egg-content {&#xA;    margin-top: 12px;&#xA;    display: none;&#xA;    font-size: 14px;&#xA;    line-height: 1.7;&#xA;    color: #bbb;&#xA;  }&#xA;&#xA;    .spoiler {&#xA;      background: #000;&#xA;      color: #000;&#xA;      border-radius: 4px;&#xA;      padding: 2px 6px;&#xA;      cursor: pointer;&#xA;      transition: color 0.3s;&#xA;    }&#xA;&#xA;    .spoiler:hover {&#xA;      color: #fff;&#xA;    }&#xA;&#xA;  /* 只有按住时才显示 */&#xA;  .spoiler:active {&#xA;    color: #aaa;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&lt;p&gt;&lt;button class=&#34;egg-btn&#34; id=&#34;eggBtn&#34;&gt;这是什么？&lt;/button&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

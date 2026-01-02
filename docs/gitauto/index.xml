@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gitAuto on TICK077</title>
+    <link>/docs/gitauto/</link>
+    <description>Recent content in gitAuto on TICK077</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Fri, 02 Jan 2026 23:57:00 +0800</lastBuildDate>
+    <atom:link href="/docs/gitauto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gitAuto - README</title>
+      <link>/docs/gitauto/gitauto-readme/</link>
+      <pubDate>Fri, 02 Jan 2026 23:57:00 +0800</pubDate>
+      <guid>/docs/gitauto/gitauto-readme/</guid>
+      <description>&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/TICK077/gitAuto&#34;&gt;gitAuto&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;#-%e7%89%b9%e6%80%a7&#34;&gt;中文版本README&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;gitauto&#34;&gt;gitAuto&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;gitAuto&lt;/code&gt; is a &lt;strong&gt;Lightweight Git Auto-Commit / Push Tool (Windows only)&lt;/strong&gt;&lt;br&gt;&#xA;designed to automatically execute the &lt;strong&gt;Pull → Wait → Countdown → Commit → Push&lt;/strong&gt; workflow when local files change.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
